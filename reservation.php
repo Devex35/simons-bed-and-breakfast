@@ -1,6 +1,6 @@
 ﻿<?php
 
-$myemail = 'you@yoursite.com';
+$myemail = 'you@gmail.com';
 
 $checkin     = $_POST['checkin'];
 $checkout    = $_POST['checkout'];
